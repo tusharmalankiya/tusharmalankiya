@@ -1,5 +1,5 @@
 # Hi, Tushar here! 👋
-Thank you for visiting my profile
+Thank you for visiting my GitHub profile
 
 
 ## GitHub Stats
