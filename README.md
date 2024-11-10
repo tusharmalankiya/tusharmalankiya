@@ -15,10 +15,10 @@ Thank you for visiting my GitHub profile
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=aws,flask,docker,nodejs,express,&perline=3)
+![Backend Technologies](https://skillicons.dev/icons?i=aws,flask,docker,nodejs,express&perline=5)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,md,vscode,postman,pycharm,linux,windows)
+![Others](https://skillicons.dev/icons?i=git,github,md,vscode,postman,pycharm,linux,windows&perline=4)
