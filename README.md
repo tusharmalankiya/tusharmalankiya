@@ -3,7 +3,7 @@ Thank you for visiting my GitHub profile
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tusharmalankiya&show_icons=true&theme=gotham&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tusharmalankiya&show_icons=true&theme=nightowl&size_weight=0&count_weight=1)
 
 
 ## Skills
